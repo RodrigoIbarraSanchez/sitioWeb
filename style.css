@@ -24,7 +24,7 @@ aside {
 	text-align: center;
 	padding: 10px;
 }
-section {
+section.principal {
 	background-color: #2196f3;
 	color: white;
 	width: 74%;
@@ -35,7 +35,7 @@ section {
 	padding: 10px;
 }
 
-footer {
+footer.principal {
 	background-color: #2196f3;
 	color: white;
 	height: 60px;
